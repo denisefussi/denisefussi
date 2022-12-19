@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! soy Denise Fussi, acutalmente estoy estudiando Fulls Stack Web Developer en Digital House 👋
 
 <!--
 **denisefussi/denisefussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
