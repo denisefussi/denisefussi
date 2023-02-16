@@ -1,6 +1,9 @@
 ### Hi! My name is Denise Fussi, i'm studying Full Stack Web Developer program at Digital House 👋
-
- 🌱 I’m currently learning Javascript, HTML, CSS and React.
+ The fact of having bet on the world of programming made me an extremely persevering person, open to change and eager to learn!
+ 
+🌱 I’m currently learning Javascript, HTML, CSS, Express, Node.JS and React. 
+💬 Ask me about anything related to JavaScript
+😄 Pronouns: Pupi
  
 - 📫 How to reach me: denisefussi@gmail.com 
 <!--
